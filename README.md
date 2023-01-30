@@ -3,7 +3,7 @@
 
 ## About app
 
-COLOS is an application for tracking your shipments. Also, different roles could work in this application, such as a dispatch operator, a regular user, and a project client. The functionality for each role has been limited or expanded depending on the role. Each shipment can be tracked on a map, with an accurate calculation of its location and a history of movement
+COLOS is an application for your shipments tracking. There are different roles in app such as a dispatch operator, regular user, and project client. The functionality for each role has been limited or expanded depending on the role. Each shipment can be tracked on a map with an accurate location calculation and movement history
 
 ## 🛠 App languages
 Mobile app: Dart and flutter<br />
